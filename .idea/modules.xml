@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Matvey.Trello-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Matvey.Trello-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Matvey.Trello-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Matvey.Trello-web.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello-web.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trello-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Trello-web.test.iml" />
+    </modules>
+  </component>
+</project>

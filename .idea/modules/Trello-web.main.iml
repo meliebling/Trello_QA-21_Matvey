@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Trello-web:main" external.linked.project.path="$MODULE_DIR$/../../Trello-web" external.root.project.path="$MODULE_DIR$/../../Trello-web" external.system.id="GRADLE" external.system.module.group="Matvey" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../Trello-web" rootProjectPath="$MODULE_DIR$/../../Trello-web" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../Trello-web/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Trello-web/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../Trello-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Trello-web/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
